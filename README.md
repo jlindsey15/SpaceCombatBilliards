@@ -3,10 +3,14 @@
 A multiplayer 3D flying/combat game written in java.  Graphics courtesy of LWJGL.  Can be played by computers connected to the same network.  Incorporates a simple 3D physics engine, multi-thread programming on the client side, some basic networking, and quaternion-based flight mechanics.
 
 Instructions:
-> Run the server file and enter the number of players you plan on having in your game (at least 2).
-> Each player should run the client file on his/her computer.  When the fiery red intro screen pops up, press enter (if you would like to use arrow key controls for flying) or click the screen (if you would prefer to use mouse controls). Arrow key controls are recommended to start out with.
-> Wait until all clients are connected to the server (this will only work if the clients are connected to the same network).  When that happens, you'll find yourself floating around in a green box.  Start using controls and your ship will appear. 
-> Note: the game runs pretty slow if your connection strength isn't perfect or if the client computers have too many other processes running.  Playing with too many players also slows things down.
+
+Run the server file and enter the number of players you plan on having in your game (at least 2).
+
+Each player should run the client file on his/her computer.  When the fiery red intro screen pops up, press enter (if you would like to use arrow key controls for flying) or click the screen (if you would prefer to use mouse controls). Arrow key controls are recommended to start out with.
+
+Wait until all clients are connected to the server (this will only work if the clients are connected to the same network).  When that happens, you'll find yourself floating around in a green box.  Start using controls and your ship will appear. 
+
+Note: the game runs pretty slow if your connection strength isn't perfect or if the client computers have too many other processes running.  Playing with too many players also slows things down.
 
 
 Controls:
