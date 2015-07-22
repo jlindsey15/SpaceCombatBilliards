@@ -1,5 +1,7 @@
 # SpaceCombatBilliards
 
+Authors: Jack Lindsey and Richard Randall
+
 A multiplayer 3D flying/combat game written in java.  Graphics courtesy of LWJGL.  Can be played by computers connected to the same network.  Incorporates a simple 3D physics engine, multi-thread programming on the client side, some basic networking, and quaternion-based flight mechanics.
 
 Instructions:
