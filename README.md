@@ -15,7 +15,9 @@ Note: the game runs pretty slow if your connection strength isn't perfect or if 
 
 Controls:
 1. Arrow keys or mouse to turn (see above)
+ 
 2. Q and A to speed up and slow down
+
 3. Space to charge up and release to shoot a cue ball
 
 How it works:
